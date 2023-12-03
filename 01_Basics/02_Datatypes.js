@@ -10,6 +10,7 @@ let name = "Ravishankar"
 let age = 20
 let isLoggedIn = false
 let state;
+let city = "Patna";
 
 // number => 2 to power 53
 //bigint
